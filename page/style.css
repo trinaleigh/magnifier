@@ -1,7 +1,3 @@
-* {
-	--magnified: 1600px 3200px;
-}
-
 body {
     font-family: Helvetica;
 }
@@ -26,7 +22,6 @@ div {
 	border: 5px solid;
 	background-image: url('/lorem_ipsum.jpeg');
 	background-repeat: no-repeat;
-	background-size: var(--magnified);
 	margin: 0;
 	padding: 0;
 }
